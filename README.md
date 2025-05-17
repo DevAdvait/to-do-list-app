@@ -40,8 +40,11 @@ Open `index.html` in your favorite web browser to try it out.
 ## File Structure
 
 /project-folder
+
 |── index.html # Main HTML page
+
 |── styles.css # CSS styles
+
 └── app.js # JavaScript (jQuery) logic
 
 
